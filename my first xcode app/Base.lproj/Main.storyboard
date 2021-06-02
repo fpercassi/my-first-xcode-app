@@ -21,7 +21,7 @@
                                 <rect key="frame" x="8" y="220" width="284" height="91"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="29"/>
-                                <state key="normal" title="HELLO wORLD">
+                                <state key="normal" title="HELLO wORlD">
                                     <color key="titleColor" systemColor="labelColor"/>
                                 </state>
                             </button>
